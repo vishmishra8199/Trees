@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// Program to find the height of the tree
 class tree{
     public:
     int data;
